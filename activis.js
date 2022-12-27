@@ -1,29 +1,3 @@
-// =================================================================
-// Template Name: Affan - PWA Mobile HTML Template
-// Template Author: Designing World
-// Template Author URL: https://themeforest.net/user/designing-world
-// =================================================================
-
-// ============================================
-// 1.0 Template Features Code
-//      1.1 Setting Button Trigger
-//      1.2 Password Visibility
-//      1.3 Prevent Default 'a' Click
-// 2.0 Third Party Plugins Activation
-//      2.1 Dropdown Menu
-//      2.2 Tiny Slider
-//      2.3 Isotope
-//      2.4 Image Gallery
-//      2.5 Countdown
-//      2.6 Counter Up
-//      2.7 Range Slider
-//      2.8 Data Table
-//      2.9 Password Meter
-// 3.0 Bootstrap Toast & Tooltips Activation
-// 4.0 Miscellaneous Features Code
-// 5.0 Preloader Activation
-// ============================================
-
 // ====================================
 // Chapter 1.0: Template Features Code
 // ====================================
@@ -704,3 +678,13 @@ if (preloader) {
         }, 20);
     });
 }
+
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4727948,4,511,95,18,00000000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
