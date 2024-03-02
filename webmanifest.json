@@ -5,9 +5,9 @@
 	"display": "standalone",
 	"start_url": "/",
 	"short_name": "Raket TV",
-	"theme_color": "#0f1011",
-	"orientation": "any",
-	"background_color": "#0f1011",
+	"theme_color": "#212529",
+	"orientation": "portrait",
+	"background_color": "#212529",
 	"related_applications": [],	      
     "description": "Live Streaming Badminton",
 	"serviceworker": {
